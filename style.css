@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --primaryColor: #264653;
+    --secondColor: #E76F51;
+
+}
+.o_secondColor{
+    color: var(--secondColor);
+}
+header{
+    background-color: var(--primaryColor);
+}
+.O_btn-color{
+    background-color: #E76F51;
+    color: white;
+}
